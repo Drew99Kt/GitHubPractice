@@ -12,6 +12,7 @@ public class Directions {
 	// 9. Add me as the reviewer and submit PR. 
 	
 	// NOTE: do not work any any one elses package, Or branchs. 
+	// all PR's to main will be rejected
 	
 	
 	
