@@ -5,7 +5,7 @@ class practice
 
 
 
-	// 1. download the project
+	// 1. fork the project
 	// 2. make a feature branch from development. include your name in the branch (f-andrewsIntialCommit)
 	// 3. make sure your checed-out of your feature branch (checked-out means your working on that branch) 
 	// 4. Add a package inside of the src folder location (see 5)
