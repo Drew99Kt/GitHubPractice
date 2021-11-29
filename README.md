@@ -13,7 +13,8 @@ class practice
 	// 6. Add a class inside your folder, name it what every you want. 
 	// 7. once your finished commit your changes, pull from develp, and then push to the repo. 
 	// 8. onced you pushed your work to the repo, make a PR (pull request) to my gitHub repo. 
-	// 9. Add me as the reviewer and submit PR. edit: you dont need to add me for review, i will automatically be added.  
+	// 9.go back to the forked repo you made out of mine. click fetch upstream to update your project and then click contribute
+	// to push your branch into my repo's develop
 	
 	// NOTE: do not work any any one elses package 
 	// all PR's to main will be rejected
