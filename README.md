@@ -10,7 +10,8 @@ https://github.com/Drew99Kt/GitHubPractice
 7. add package inside of the src location with you name
 8. add a class inside that package you made
 9. go back to git hub desk top and commit your changes and push them to github
-10. make a pull request and i will review it. ``` this is the second way to do this github project.  (its easier)  if you want to be a collaborator,  send your github name here and i will send the invite.
+10. make a pull request and i will review it. ``` this is the second way to do this github project.  
+(its easier)  if you want to be a collaborator,  send your github name here and i will send the invite.
 ```any questions ask me in chat or send me a message```
 
  ```
