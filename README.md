@@ -21,3 +21,7 @@ NOTE:
 3. do not work on the development branch (make a feature branch from development)```
 
 ![image](https://user-images.githubusercontent.com/71528556/143988600-30b4fc79-3d6e-4228-b89d-d15a876fd8f4.png)
+
+
+This git hub repo also hosts a web page at https://drew99kt.github.io/GitHubPractice/
+ If you want to change the index page, feel free to change it and submit a pull request. You can also link to a new page if you want to add another page.
