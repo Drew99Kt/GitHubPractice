@@ -1,6 +1,6 @@
 package pjanthimaTom;
 
-public class GithubPractice {
+public class practice_GithubTom {
 
 	public static void main(String[] args) {
 		
